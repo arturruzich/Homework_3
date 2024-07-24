@@ -168,7 +168,7 @@ print(f"Fuel need for all way: {total_fuel}")
 print(f"Charges on gas station need: {gas_station_needed}")
 
 
-#End
+#End of tasks
 
 
 
